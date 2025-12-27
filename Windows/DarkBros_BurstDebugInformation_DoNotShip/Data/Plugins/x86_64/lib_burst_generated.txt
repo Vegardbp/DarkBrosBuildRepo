@@ -11,7 +11,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -79,7 +78,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -149,7 +147,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -171,7 +168,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -191,7 +187,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -309,7 +304,6 @@ Library: C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_6
 --linker-options=PdbAltPath="DarkBros_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProjects\MultiplayerProject\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProjects\MultiplayerProject\Library\Burst
 --output=C:\UnityProjects\MultiplayerProject\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
